@@ -12,18 +12,7 @@
 * Interfaz sencilla y completa.
 
 ## 📝 Instalación y ejecución
-
-- **__Opción 1.__**  Ejecutar con el **.exe** (Windows).
-Ve a la carpeta Ejecutables. Ejecuta el archivo GestEdu-Setup.exe. Sigue los pasos del instalador para completar la instalación. Abre la aplicación desde el acceso directo creado.
-
-- **__Opción 2.__** Ejecutar con el .jar (requiere Java). Asegúrate de tener Java 17 o superior instalado. Abre una terminal en la carpeta Ejecutables. Ejecuta el siguiente comando:
-```bash
-java -jar Enrollia.jar
-```
-
-- **__Opción 3.__** Revisar o compilar el código fuente. Descarga o clona el repositorio:
-
-```bash
-git clone https://github.com/nicolasorteg/GestEdu.git
-```
-Ve a la carpeta ejecutables/ y descomprime el archivo proyecto.zip. Abre el proyecto con tu IDE favorito (IntelliJ, Eclipse, NetBeans, etc.). Compila y ejecuta el proyecto desde el entorno de desarrollo.
+1. Ve a la carpeta Ejecutables/Exe.
+2. Ejecuta el archivo GestEdu-Setup.exe.
+3. Sigue los pasos del instalador para completar la instalación.
+4. Abre la aplicación desde el acceso directo creado.
