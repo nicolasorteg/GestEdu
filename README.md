@@ -13,16 +13,16 @@
 
 ## 📝 Instalación y ejecución
 
-Opción 1.  Ejecutar con el **.exe** (Windows)
+- **__Opción 1.__**  Ejecutar con el **.exe** (Windows)
 Ve a la carpeta Ejecutables. Ejecuta el archivo GestEdu-Setup.exe. Sigue los pasos del instalador para completar la instalación. Abre la aplicación desde el acceso directo creado.
 
-Opción 2. Ejecutar con el .jar (requiere Java)
+- **__Opción 2.__** Ejecutar con el .jar (requiere Java)
 Asegúrate de tener Java 17 o superior instalado. Abre una terminal en la carpeta Ejecutables. Ejecuta el siguiente comando:
 ```bash
 java -jar Enrollia.jar
 ```
 
-Opción 3. Revisar o compilar el código fuente
+- **__Opción 3.__** Revisar o compilar el código fuente
 Descarga o clona el repositorio:
 
 ```bash
